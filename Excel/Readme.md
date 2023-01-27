@@ -1,1 +1,81 @@
+## Logical Functions
 
++ AND
++ OR
++ NOT
++ TRUE
++ FALSE
++ IF
++ IFS
++ IFERROR
++ IFNA
++ XOR
+
+## LookUp & References
+
++ LOOKUP
++ vLOOKUP/HLOOKUP
++ INDIRECT
+
+## Maths
+
++ SUMIF
++ SUMIFS
++ SUBTOTAL
++ RANDBETWEEN
++ RAND
+
+## Statistical
+
++ AVERAGE
++ AVERAGEIF
++ AVERAGEIFS
++ COUNT
++ COUNTA
++ COUNTBLANK
++ COUNTIF
++ COUNTIFS
++ MIN
++ MAX
++ MEDIAN
++ MODE
++ RANK
++ STDEV
+
+## Text
+
++ CHAR
++ CLEAN
++ CODE
++ CONCAT
++ CONCATENATE
++ EXACT
++ FIND
++ FIXED
++ LEFT
++ LEN
++ LOWER
++ MID
++ PROPER
++ REPLACE
++ SUBSTITUTE
++ TEXT
++ TRIM
++ UPPER
++ VALUE
++ 
+## Information
+
++ ERROR.TYPE
++ INFO
++ ISBLANK
++ ISERR
++ ISERROR
++ ISNA
++ ISNONTEXT
++ ISNONNUMBER
++ ISTEXT
++ N
++ NA
++ TYPE
+***
